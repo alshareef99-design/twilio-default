@@ -1,0 +1,2 @@
+# Local bench runtime (sites, env, logs, apps clones inside bench)
+frappe_docker/development/frappe-bench/
